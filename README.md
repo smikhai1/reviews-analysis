@@ -1,2 +1,8 @@
-# reviews-analysis
-Comparison of different approaches to sentiment analysis of users' reviews in online markets. 
+# NLA-project
+NLA final project 
+
+Structure:
+- dataset
+- notebooks
+- references
+- results
